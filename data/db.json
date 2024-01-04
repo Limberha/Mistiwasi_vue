@@ -1,0 +1,179 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Articulo 1",
+      "img": "https://picsum.photos/300?random=2",
+      "gramos": 10,
+      "palitos_crochet": "...",
+      "precio": 30,
+      "tipo_fibra": "...",
+      "stock": 10,
+      "coleccion": "...",
+      "grosor": "..."
+    },
+    {
+      "id": 2,
+      "nombre": "Articulo 2",
+      "img": "https://picsum.photos/300?random=2",
+      "gramos": 10,
+      "palitos_crochet": "...",
+      "precio": 50,
+      "tipo_fibra": "...",
+      "stock": 10,
+      "coleccion": "...",
+      "grosor": "..."
+    },
+    {
+      "id": 3,
+      "nombre": "Articulo 3",
+      "img": "https://picsum.photos/300?random=2",
+      "gramos": 10,
+      "palitos_crochet": "...",
+      "precio": 70,
+      "tipo_fibra": "...",
+      "stock": 10,
+      "coleccion": "...",
+      "grosor": "..."
+    }
+  ],
+  "ventas": [
+    {
+      "fecha": "12/5/2023, 12:25:03 AM",
+      "detalle": [
+        {
+          "producto_id": 1,
+          "nombre": "Articulo 1",
+          "cantidad": 3,
+          "precio": 30,
+          "img": "https://picsum.photos/300?random=2",
+          "stock": 10
+        },
+        {
+          "producto_id": 2,
+          "nombre": "Articulo 2",
+          "cantidad": 1,
+          "precio": 50,
+          "img": "https://picsum.photos/300?random=2",
+          "stock": 10
+        }
+      ],
+      "id": 1
+    },
+    {
+      "fecha": "12/5/2023, 12:27:47 AM",
+      "detalle": [
+        {
+          "producto_id": 1,
+          "nombre": "Articulo 1",
+          "cantidad": 3,
+          "precio": 30,
+          "img": "https://picsum.photos/300?random=2",
+          "stock": 10
+        },
+        {
+          "producto_id": 2,
+          "nombre": "Articulo 2",
+          "cantidad": 1,
+          "precio": 50,
+          "img": "https://picsum.photos/300?random=2",
+          "stock": 10
+        }
+      ],
+      "id": 2
+    },
+    {
+      "fecha": "12/5/2023, 2:47:25 PM",
+      "detalle": [
+        {
+          "producto_id": 1,
+          "nombre": "Articulo 1",
+          "cantidad": 2,
+          "precio": 30,
+          "img": "https://picsum.photos/300?random=2",
+          "stock": 10
+        },
+        {
+          "producto_id": 2,
+          "nombre": "Articulo 2",
+          "cantidad": 3,
+          "precio": 50,
+          "img": "https://picsum.photos/300?random=2",
+          "stock": 10
+        },
+        {
+          "producto_id": 3,
+          "nombre": "Articulo 3",
+          "cantidad": 2,
+          "precio": 70,
+          "img": "https://picsum.photos/300?random=2",
+          "stock": 10
+        }
+      ],
+      "id": 3
+    },
+    {
+      "fecha": "12/5/2023, 2:47:58 PM",
+      "detalle": [
+        {
+          "producto_id": 1,
+          "nombre": "Articulo 1",
+          "cantidad": 2,
+          "precio": 30,
+          "img": "https://picsum.photos/300?random=2",
+          "stock": 10
+        },
+        {
+          "producto_id": 2,
+          "nombre": "Articulo 2",
+          "cantidad": 3,
+          "precio": 50,
+          "img": "https://picsum.photos/300?random=2",
+          "stock": 10
+        },
+        {
+          "producto_id": 3,
+          "nombre": "Articulo 3",
+          "cantidad": 2,
+          "precio": 70,
+          "img": "https://picsum.photos/300?random=2",
+          "stock": 10
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "strings": [
+    {
+      "id": [
+        1,
+        2
+      ],
+      "precio": [
+        30,
+        50
+      ],
+      "cantidad": [
+        3,
+        1
+      ]
+    },
+    {
+      "id": [
+        1,
+        2,
+        3
+      ],
+      "precio": [
+        30,
+        50,
+        70
+      ],
+      "cantidad": [
+        2,
+        3,
+        2
+      ]
+    }
+  ]
+}
